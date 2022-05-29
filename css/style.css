@@ -1,5 +1,24 @@
 #responsePre{
     max-height: 500px;
     background: whitesmoke;
+    margin: 0;
 }
-
+.navbar-collapse{
+    justify-content: center;
+}
+ul{
+    width: 20%;
+    justify-content: space-between;
+}
+h2{
+    text-align: center;
+}
+@media screen and (max-width: 1000px) {
+    .dev{
+        display: none;
+    }
+}
+.col-sm-18{
+    text-align: center;
+    width: 100%;
+}
