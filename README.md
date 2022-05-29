@@ -5,7 +5,7 @@ User interface that makes it easy for developers to create, share, test and docu
 The site is live at https://webpostman.netlify.app/
 
 <a target="_blank" href="https://webpostman.netlify.app/">
-          <img src="https://github.com/rahulkarda/rahulkarda/blob/main/images/webpostman.jpg?raw=true" width="100%" alt="Web Postman"/>
+          <img src="https://github.com/rahulkarda/Web-Postman/blob/master/images/webpostman.jpg?raw=true" width="100%" alt="Web Postman"/>
 </a>
 
 ## Tech Stack
