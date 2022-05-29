@@ -22,3 +22,36 @@ h2{
     text-align: center;
     width: 100%;
 }
+footer{
+    background-color: #007bff;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.fa-github{
+    font-size: 30px;
+}
+footer a{
+    color: white;
+}
+footer a:hover{
+    transform: scale(1.5);
+    color: black;
+}
+#dev{
+    font-size: 20px;
+    color: white;
+    margin: 10px;
+}
+#dev:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: black;
+    transform: none;
+}
+a:hover{
+    text-decoration: underline !important;
+}
