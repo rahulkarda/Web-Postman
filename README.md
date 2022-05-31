@@ -20,7 +20,7 @@ The site is live at https://webpostman.netlify.app/
 [Bootstrapbbo](https://getbootstrap.com/) is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.
 
 ## Optimizations
-While improve this project, I would start by implementing the following features -
+While improving this project, I would start by implementing the following features -
 
    1. Adding more HTTP methods like PUT, PATCH, and DELETE
    2. Display success and error messages
