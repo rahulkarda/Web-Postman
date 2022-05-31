@@ -17,7 +17,7 @@ The site is live at https://webpostman.netlify.app/
 
 [PrismJS](https://prismjs.com/) is a lightweight, extensible syntax highlighter, built with modern web standards in mind.
 
-[Bootstrapbbo](https://getbootstrap.com/) is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.
+[Bootstrap](https://getbootstrap.com/) is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.
 
 ## Optimizations
 While improving this project, I would start by implementing the following features -
