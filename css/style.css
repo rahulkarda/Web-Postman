@@ -1,6 +1,7 @@
 body{
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 #responsePre{
     max-height: 500px;
