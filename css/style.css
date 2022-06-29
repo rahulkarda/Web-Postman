@@ -1,3 +1,7 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
 #responsePre{
     max-height: 500px;
     background: whitesmoke;
