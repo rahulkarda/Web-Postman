@@ -23,6 +23,8 @@ h2{
     width: 100%;
 }
 footer{
+    position: relative;
+    bottom: 0;
     background-color: #007bff;
     display: flex;
     flex-direction: column;
