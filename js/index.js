@@ -1,7 +1,4 @@
-//Project 6  - Postman Clone
-//Creating a Get/Post Request website
-
-console.log('Welcome to app.js');
+console.log('Welcome to Web Postman App');
 
 // Utility functions:
 // 1. Utility function to get DOM element from string
